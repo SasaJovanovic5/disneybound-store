@@ -101,3 +101,53 @@ footer {
     text-align: center;
     padding-top: 15px;
 }
+
+#text-container {
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+#button {
+    color: rgb(0,0,0);
+    background: rgba(233,213,239,0);
+    border: 2px solid rgb(0,0,0);
+    font-size: 17px;
+}
+h4 {
+    text-align: center;
+}
+
+.character {
+    border-radius: 13px;
+    width: 256px;
+    height: 200px;
+}
+
+a, a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+h2 {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 38px;
+    margin-right: 38px;
+}
+
+.item-image {
+    width: 352px;
+    height: 443px;
+}
+
+.first-row {
+    height: 450px;
+}
+
+.second-row {
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    height: 450px;
+    margin-top: 40px;
+}
